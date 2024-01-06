@@ -9,3 +9,5 @@ The *server.py* file should go on the computer that is the server and will be re
 If everything goes to plan, the sockets should establish a connection. 
 
 Please note that you need to connect a camera to the client. (duh!)
+
+This project is the implementation of a tutorial from YouTube by Tech with Tim, but has been expanded to include networking capabilities. [Link to the tutorial](https://www.youtube.com/watch?v=Exic9E5rNok)
